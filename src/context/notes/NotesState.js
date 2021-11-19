@@ -1,6 +1,6 @@
 
 import NoteContext from "./noteContext";
-import { useState } from "react";
+import { useState,useContext } from "react";
 
 const NoteState=(props)=>{
     
